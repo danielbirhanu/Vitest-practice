@@ -1,8 +1,11 @@
+import HelloWorld from "./components/HelloWorld"
 
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <HelloWorld />
+    </div>
   )
 }
 
